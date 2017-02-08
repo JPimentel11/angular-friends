@@ -432,4 +432,6 @@ angular.module('myApp').controller('friendController', function ($scope) {
     }
   ];
 
+  $scope.searchTerm = '';
+
 });
